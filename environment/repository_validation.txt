@@ -1,1 +1,1 @@
-PASS: 198 tracked files; local Markdown/image targets exist; no binary models/raw datasets/package library; no private Windows user paths or token patterns; no file >10 MiB.
+PASS: 200 tracked files; local Markdown/image targets exist; no binary models/raw datasets/package library; no private Windows user paths or token patterns; no file >10 MiB.

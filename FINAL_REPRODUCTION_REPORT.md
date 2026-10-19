@@ -86,7 +86,7 @@ README包含方法背景、原论文、LDA术语与数学/流程图、可复制�
 
 ## 9. GitHub状态
 
-PENDING：本地交付检查完成后创建公开独立仓库，检查远程HEAD、README图片与链接再更新本段。未将待发布误写成已发布。
+**PASS（发布）**：[公开仓库](https://github.com/stevenhuangfannk-creator/STdeconvolve-Spatial-Topic-Atlas)已创建，main首次推送成功。基准提交`3856a3a`的199个远程blob与本地索引完全一致；README的8张嵌入图均返回HTTP200。Markdown与图件相对路径本地检查通过，全部81个图件文件包含在远程tree中。发布检查记录见environment/remote_validation.csv；最终报告/检查记录随后随文档提交推送，最终HEAD以GitHub页面及git远程为准。原始数据、本机包库、大模型及私人路径没有上传。
 
 ## 10. 尚未完成与后续建议
 

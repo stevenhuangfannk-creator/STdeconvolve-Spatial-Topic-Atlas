@@ -1,0 +1,3 @@
+list(seed = 0L, Ks = 2:9, ncores = 1L, rare = 0.05, perc_filt = 0.05,
+    beta_scale = 1000, repeats = 1:3, dpi = 300, font = "Arial",
+    upstream_sha = "13b1953263a5ce34e2471c4defebedbda44c7d08")

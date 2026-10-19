@@ -1,0 +1,22 @@
+
+--- STDERR / warnings ---
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed
+2: Setting LC_CTYPE=C.UTF-8 failed
+3: Setting LC_MONETARY=C.UTF-8 failed
+4: Setting LC_TIME=C.UTF-8 failed
+项目就绪：R version 4.6.1 (2026-06-24 ucrt); STdeconvolve 1.3.2; ncores=1
+NOTE: using type='b' and comparing betas where the cell-types are
+            the rows (cell-types x genes)
+cell-type correlations based on 232 shared genes between m1 and m2.
+
+NOTE: using type='t' and comparing thetas where the cell-types are
+            the columns (pixels x cell-types)
+cell-type correlations based on 260 shared pixels between m1 and m2.
+
+Warning message:
+The `size` argument of `element_rect()` is deprecated as of ggplot2 3.4.0.
+i Please use the `linewidth` argument instead.
+i The deprecated feature was likely used in the STdeconvolve package.
+  Please report the issue at
+  <https://github.com/JEFworks-Lab/STdeconvolve/issues>.

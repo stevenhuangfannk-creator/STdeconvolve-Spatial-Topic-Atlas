@@ -1,0 +1,9 @@
+path,bytes,sha256,tracked
+data/raw/KEGG_mmu_link.tsv,1025914,c0e06c207bce29932d3431491b921cd5d492d4d08b2e2ff2e4e569b93775ce71,no; regenerate with scripts
+data/raw/KEGG_mmu_pathway_names.tsv,24062,016cb5a5361600aba63a4e9a0538c0d458d4f8d21fed848922bbf0ace19a8f80,no; regenerate with scripts
+data/raw/mOB_official.rds,1906587,9caf0c30f33b4e10014c92c4aa482da38276526520b3f736d359a0012e634bc7,no; regenerate with scripts
+data/raw/Rep2_MOB_count_matrix-1.tsv,9103187,b0d95678ea8fecfed5dc7365503f79f5c01f8066127aad677f8dd92cfd520eb8,no; regenerate with scripts
+data/processed/core.rds,3397608,cca3c190d02d93b209bd40ddceb6d0b3c9439042378ce422dcc57612ffeb7a47,no; regenerate with scripts
+data/processed/paper_mOB.rds,242983,31bcb504758a46beefaa5c1b4db909ce016496949b7f5ecb0ad719ba8f50d4a8,no; regenerate with scripts
+results/models/ldas.rds,679526,eaf64c21eb2ecb5ab39216b9b9afdaf0c6fee6df5b45694941f863a8d9cfe546,no; regenerate with scripts
+results/models/paper_mOB/ldas.rds,2151277,f32435461f89fc6373a9e9a27c423fe3ad0e1460308421952773f7f4f1065071,no; regenerate with scripts

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "使用本教学仓库时请同时引用 STdeconvolve 原论文，并注明实际软件版本与本仓库提交号。"
+title: "STdeconvolve Spatial Topic Atlas: reproducible Chinese research tutorial"
+type: software
+version: 0.1.0
+date-released: 2026-10-19
+license: GPL-3.0-only
+authors:
+  - name: "STdeconvolve Spatial Topic Atlas contributors"
+repository-code: "https://github.com/stevenhuangfannk-creator/STdeconvolve-Spatial-Topic-Atlas"
+preferred-citation:
+  type: article
+  title: "Reference-free cell type deconvolution of multi-cellular pixel-resolution spatially resolved transcriptomics data"
+  authors:
+    - family-names: Miller
+      given-names: Brendan F.
+    - family-names: Huang
+      given-names: Feiyang
+    - family-names: Atta
+      given-names: Lyla
+    - family-names: Sahoo
+      given-names: Arpan
+    - family-names: Fan
+      given-names: Jean
+  journal: Nature Communications
+  year: 2022
+  volume: 13
+  start: "2339"
+  doi: 10.1038/s41467-022-30033-z

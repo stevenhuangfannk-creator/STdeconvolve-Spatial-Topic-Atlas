@@ -1,0 +1,21 @@
+# 本机环境与大型真实数据不上传；保留脚本、参数、摘要和实际图件。
+environment/R-library/
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*.rds
+results/models/*
+!results/models/.gitkeep
+!results/models/*.csv
+!results/models/paper_mOB/
+*.RData
+.Rhistory
+.Rproj.user/
+*.rds
+*.rda
+*.RDS
+*.zip
+*.tar.gz
+Rplots.pdf
+*.log.tmp
+.DS_Store
+Thumbs.db

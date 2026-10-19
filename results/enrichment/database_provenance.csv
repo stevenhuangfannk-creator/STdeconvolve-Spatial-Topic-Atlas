@@ -1,0 +1,4 @@
+"library","status","source","version","retrieved_at","sha256","note"
+"GO_BP","READY","Bioconductor org.Mm.eg.db GOALL; GO.db (BP including ancestors)","3.23.0;3.23.1","2026-10-19T11:58:34+0800","ec7ecf67a2cf2c4dab228a3095f29876e48b01cd1a8fdb3c3a86ab191c7fcf5e","Serialized mapping SHA256"
+"KEGG","READY","https://rest.kegg.jp/link/pathway/mmu; https://rest.kegg.jp/list/pathway/mmu","KEGG REST current; cached content hashes below","2026-10-19T11:58:41+0800","c0e06c207bce29932d3431491b921cd5d492d4d08b2e2ff2e4e569b93775ce71;016cb5a5361600aba63a4e9a0538c0d458d4f8d21fed848922bbf0ace19a8f80","Cached file SHA256; an existing file retains its recorded source"
+"Reactome","BLOCKED","https://reactome.org/download-data",NA,"2026-10-19T11:58:48+0800",NA,"cannot open URL 'https://download.reactome.org/current/NCBI2Reactome_All_Levels.txt'"

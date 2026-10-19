@@ -1,0 +1,2 @@
+"paper_fixed_K","current_min_perplexity_K","current_rare_topics_at_K12","decision"
+12,"17",0,"K12固定对应论文选择；不替换为本次最小perplexity。低perplexity范围无官方数值阈值，勿伪造自动选择规则。"

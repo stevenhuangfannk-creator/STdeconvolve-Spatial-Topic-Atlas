@@ -1,0 +1,4 @@
+"analysis","status","evidence_scope"
+"official_tissue_layer_correlation","PASS","同一切片真实组织层标签关联；非独立验证"
+"official_tissue_layer_proxy_GSEA","PASS","按官方教程从同切片聚合counts导出代理基因集；非独立验证"
+"independent_scRNA_cell_type_annotation","NOT_RUN","未提供独立单细胞表达谱和可靠细胞类型标记；不生成细胞类型结论"

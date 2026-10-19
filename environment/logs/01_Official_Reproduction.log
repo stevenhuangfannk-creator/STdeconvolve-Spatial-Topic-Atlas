@@ -1,0 +1,49 @@
+now fitting LDA model with K = 2
+now fitting LDA model with K = 3
+now fitting LDA model with K = 4
+now fitting LDA model with K = 5
+now fitting LDA model with K = 6
+now fitting LDA model with K = 7
+now fitting LDA model with K = 8
+now fitting LDA model with K = 9
+computing perplexity for LDA model with K = 2
+computing perplexity for LDA model with K = 3
+computing perplexity for LDA model with K = 4
+computing perplexity for LDA model with K = 5
+computing perplexity for LDA model with K = 6
+computing perplexity for LDA model with K = 7
+computing perplexity for LDA model with K = 8
+computing perplexity for LDA model with K = 9
+
+--- STDERR / warnings ---
+During startup - Warning messages:
+1: Setting LC_COLLATE=C.UTF-8 failed
+2: Setting LC_CTYPE=C.UTF-8 failed
+3: Setting LC_MONETARY=C.UTF-8 failed
+4: Setting LC_TIME=C.UTF-8 failed
+项目就绪：R version 4.6.1 (2026-06-24 ucrt); STdeconvolve 1.3.2; ncores=1
+Converting to sparse matrix ...
+Filtering matrix with 262 cells and 15928 genes ...
+Resulting matrix has 260 cells and 14828 genes
+Removing 124 genes present in 100% or more of pixels...
+14704 genes remaining...
+Removing 3009 genes present in 5% or less of pixels...
+11695 genes remaining...
+Restricting to overdispersed genes with alpha = 0.05...
+Calculating variance fit ...
+Using gam with k=5...
+232 overdispersed genes ...
+ Using top 1000 overdispersed genes.
+
+ number of top overdispersed genes available: 232
+
+Time to fit LDA models was 1.61 mins
+Computing perplexity for each fitted model...
+Time to compute perplexities was 0 mins
+Getting predicted cell-types at low proportions...
+Time to compute cell-types at low proportions was 0 mins
+Filtering out cell-types in pixels that contribute less than 0 of the pixel proportion.
+
+Filtering out cell-types in pixels that contribute less than 0.05 of the pixel proportion.
+
+官方快速教程核心完成；选择 K = 8。Topic 尚未经过细胞类型参考验证。

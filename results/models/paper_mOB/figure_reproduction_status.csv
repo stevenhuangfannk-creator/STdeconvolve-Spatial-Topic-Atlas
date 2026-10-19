@@ -1,0 +1,5 @@
+"panel","status","boundary"
+"Fig4a","PARTIAL","相同数据和K12的图型复现；颜色与Topic顺序未对齐"
+"Fig4b","PARTIAL","当前Topic7未证明等同于论文X7"
+"Fig4c","PARTIAL","真实Sox11/Nrep counts；图型复现，非逐像素校准"
+"Fig4d","NOT_RUN","Allen Brain Atlas ISH外部图像未复现；不以表达图替代"

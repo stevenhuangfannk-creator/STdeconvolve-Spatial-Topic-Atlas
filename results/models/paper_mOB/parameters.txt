@@ -1,0 +1,3 @@
+list(Ks = 2:20, K = 12L, seed = 0L, min.reads = 100, min.lib.size = 100,
+    min.detected = 1, removeAbove = NA, removeBelow = NA, nTopOD = NA,
+    od.genes.alpha = 0.05, gam.k = 5, ncores = 1L)
